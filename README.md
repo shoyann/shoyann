@@ -23,7 +23,7 @@ investigation, autonomous research, and evidence-backed results.
 | OSINT UK | OSINT Industries |
 |:---:|:---:|
 | <img src="assets/osint-uk-global-4-card.png" alt="OSINT UK Top 10 leaderboard progression showing Rozooka Jäger" width="100%"> | <img src="assets/osint-industries-global-8-card.png" alt="OSINT Industries Top 10 leaderboard progression showing Rozooka The Hunter" width="100%"> |
-| **Peak Global #4**<br><sub>Reached within 48 hours</sub> | **Peak Global #8**<br><sub>Reached within 48 hours</sub> |
+| **Peak Global #4**<br><sub>Reached within 48 hours</sub> | **Peak Global #8**<br><sub>Reached within 48 hours</sub><br><sub>Officially banned — apparently the leaderboard had a speed limit. ( ͡° ͜ʖ ͡°)</sub> |
 | [Leaderboard](https://ctf.osint.uk/scoreboard) | [Leaderboard](https://osintindustries.ctfd.io/scoreboard) |
 
 ## Highlights
