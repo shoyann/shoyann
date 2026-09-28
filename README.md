@@ -9,6 +9,12 @@ Search retrieves.
 
 **ARGUS investigates.** }_
 
+<p>
+  <a href="https://github.com/affaan-m/ECC">
+    <img src="https://img.shields.io/github/stars/affaan-m/ECC?style=flat-square&logo=github&label=ECC%20stars&color=16a34a" alt="ECC GitHub stars" />
+  </a>
+</p>
+
 ## Now
 
 Building **Project ARGUS**, an agentic intelligence system for multimodal
