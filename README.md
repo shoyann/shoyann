@@ -20,11 +20,37 @@ investigation, autonomous research, and evidence-backed results.
 
 **Two platforms. Two days. Two global Top 10s.**
 
-| OSINT UK | OSINT Industries |
-|:---:|:---:|
-| <img src="assets/osint-uk-global-1.png" alt="OSINT UK leaderboard progression showing Rozooka Jäger, peak global rank #1" width="100%"> | <img src="assets/osint-industries-global-8-card.png" alt="OSINT Industries Top 10 leaderboard progression showing Rozooka The Hunter" width="100%"> |
-| **Peak Global #1**<br><sub>Entered global Top 10 within 48 hours</sub> | **Peak Global #8**<br><sub>Reached within 48 hours</sub><br><sub>Officially banned — apparently the leaderboard had a speed limit.</sub><br><br><img src="assets/troll-face-cc0-white.png" alt="Trollface" width="64"> |
-| [Leaderboard](https://ctf.osint.uk/scoreboard) | [Leaderboard](https://osintindustries.ctfd.io/scoreboard) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center">OSINT UK</th>
+      <th width="50%" align="center">OSINT Industries</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" align="center" valign="top"><a href="assets/osint-uk-global-1.png"><img src="assets/osint-uk-global-1-card.svg" alt="OSINT UK leaderboard progression showing Rozooka Jäger, peak global rank #1" width="100%"></a></td>
+      <td width="50%" align="center" valign="top"><a href="assets/osint-industries-global-8.png"><img src="assets/osint-industries-global-8-card.png" alt="OSINT Industries Top 10 leaderboard progression showing Rozooka The Hunter" width="100%"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Peak Global #1</strong></td>
+      <td align="center"><strong>Peak Global #8</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><sub>Entered global Top 10 within 48 hours</sub></td>
+      <td align="center"><sub>Reached within 48 hours</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://ctf.osint.uk/scoreboard">Leaderboard</a></td>
+      <td align="center"><a href="https://osintindustries.ctfd.io/scoreboard">Leaderboard</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center">
+  <sub>OSINT Industries: Officially banned — apparently the leaderboard had a speed limit.</sub><br><br>
+  <img src="assets/troll-face-cc0-white.png" alt="Trollface" width="64">
+</p>
 
 ## Highlights
 
